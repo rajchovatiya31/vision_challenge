@@ -44,6 +44,7 @@ image for preferred output.
 5. Use this binary mask to remove unnecessary area.
 
 Final Output Image
+
 ![Output](./output/output.png)
 
 ## Installation
