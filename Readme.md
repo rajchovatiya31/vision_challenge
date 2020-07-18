@@ -43,6 +43,7 @@ image for preferred output.
 4. Draw binary contour using corner points on the empty image.
 5. Use this binary mask to remove unnecessary area.
 
+Final Output Image
 ![Output](./output/output.png)
 
 ## Installation
